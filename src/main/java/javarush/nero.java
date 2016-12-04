@@ -6,7 +6,8 @@ package javarush;
 public class nero {
 
     public static void main(String [] args){
-        String estiva = "current";
-        System.out.print(estiva);
+        int a = 222;
+        String text = "fffff" + a;
+        System.out.print(text);
     }
 }
