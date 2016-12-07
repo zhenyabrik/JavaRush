@@ -14,7 +14,7 @@ public class Converter {
         int z = x * 100;
         return z;
     }
-    public  static double DollarsToUAH(double courseD){
+    public static double DollarsToUAH(double courseD){
         double a = courseD * 55.78;
         return a;
     }
